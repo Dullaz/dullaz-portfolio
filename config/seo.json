@@ -1,21 +1,13 @@
 {
-  "title": "",
-  "description": "",
+  "title": "Abdullah Hasan",
+  "description": "Abdullah Hasan's Portfolio",
   "openGraph": {
     "title": "",
     "description": "",
     "type": "website",
     "locale": "en_IE",
-    "url": "https://www.example.com/",
-    "site_name": "",
-    "images": [
-      {
-        "url": "/example.png",
-        "width": 800,
-        "height": 600,
-        "alt": ""
-      }
-    ]
+    "url": "https://www.abdullahhasan.com/",
+    "site_name": ""
   },
   "twitter": {
     "handle": "",
