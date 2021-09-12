@@ -1,0 +1,27 @@
+[
+  {
+    "vote": 9,
+    "title": "Python",
+    "description": "Experienced in using Python in various contexts including machine learning (TensorFlow, Jupyter-Lab, Kaggle), statistical analysis (numpy, pandas, scikit), and APIs (fast-api, flask)."
+  },
+  {
+    "vote": 8,
+    "title": "Java",
+    "description": "Experienced with using Java in frameworks such as SpringBoot as well as prototyping PoCs for product owners. Some experience with unit testing Java code using JUnit and Mockito."
+  },
+  {
+    "vote": 5,
+    "title": "AWS",
+    "description": "Some experience using AWS to host EC2 instances, deploy Lambda applications, and configure IAM roles, security groups and VPCs. "
+  },
+  {
+    "vote": 5,
+    "title": "Docker",
+    "description": "Some experience containerizing applications and PoCs so that anyone can run and test them. This includes bundling services together using docker-compose."
+  },
+  {
+    "vote": 3,
+    "title": "JavaScript & TypeScript",
+    "description": "Some experience using JS and TS for personal projects ( see logos.wtf ). This includes backend development with express.js for API routes and Prisma DB."
+  }
+]

@@ -1,0 +1,19 @@
+.root {
+  min-height: 74px;
+}
+
+.nav {
+  @apply flex space-x-4;
+}
+
+.navlink {
+  @apply text-xl sm:text-2xl font-semibold text-white;
+}
+
+.underline {
+  @apply bg-white h-1 inline-block w-8 transition-all opacity-0 pointer-events-none;
+}
+
+.container {
+  @apply flex flex-col items-end py-8;
+}

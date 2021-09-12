@@ -1,0 +1,17 @@
+[
+  {
+    "vote": 10,
+    "title": "English",
+    "description": "Native"
+  },
+  {
+    "vote": 4,
+    "title": "Turkish",
+    "description": "Conversational"
+  },
+  {
+    "vote": 3,
+    "title": "Arabic",
+    "description": "Conversational"
+  }
+]

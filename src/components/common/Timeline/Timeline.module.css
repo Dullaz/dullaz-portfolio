@@ -1,0 +1,63 @@
+.work-description {
+  @apply pt-2 text-sm sm:text-base prose;
+}
+
+.title {
+  @apply relative top-20 pl-6 sm:pl-12;
+}
+
+.data-wrapper {
+  @apply min-w-0 flex-1 flex justify-between space-x-4 ml-6 sm:ml-12;
+}
+
+.data-title {
+  @apply text-lg sm:text-2xl font-medium;
+}
+
+.data-company {
+  @apply sm:text-lg font-bold text-primary;
+}
+
+.data-timeframe {
+  @apply text-xs sm:text-sm text-gray-500;
+}
+
+.dot {
+  @apply h-3 w-3 ring-8 ring-white rounded-full bg-primary z-50 absolute mt-2.5 sm:mt-3 inline-block;
+}
+
+.bottom-dot {
+  @apply absolute -bottom-7 bg-primary w-7 h-7 rounded-full left-[24px];
+}
+
+.line {
+  @apply absolute top-0 -ml-px w-1 left-[37px];
+}
+
+.dotted-line {
+  background-image: linear-gradient(
+    0deg,
+    white 12%,
+    #0070f3 12%,
+    #0070f3 24%,
+    white 24%,
+    white 36%,
+    #0070f3 36%,
+    #0070f3 46%,
+    white 46%,
+    white 56%,
+    #0070f3 56%,
+    #0070f3 64%,
+    white 64%,
+    white 72%,
+    #0070f3 72%,
+    #0070f3 80%,
+    white 80%,
+    white 86%,
+    #0070f3 86%,
+    #0070f3 92%,
+    white 92%,
+    white 96%,
+    #0070f3 96%
+  );
+}

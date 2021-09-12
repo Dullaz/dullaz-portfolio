@@ -1,0 +1,21 @@
+.wrapper {
+  @apply bg-primary pt-4;
+  height: 80vh;
+  min-height: 800px;
+}
+
+.title {
+  @apply text-white text-6xl md:text-8xl xl:text-9xl font-semibold mt-6 mb-4 md:mb-0 md:mt-4;
+}
+
+.about-me-wrapper {
+  @apply text-sm sm:text-base text-white mt-16 sm:mt-24 text-right max-w-2xl ml-auto;
+}
+
+.about-me-text {
+  @apply text-sm sm:text-base mt-1;
+}
+
+.download-button {
+  @apply mt-8 inline-block font-medium hover:underline;
+}

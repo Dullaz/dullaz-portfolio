@@ -1,0 +1,15 @@
+.title {
+  @apply mb-8;
+}
+
+.skill-title {
+  @apply font-semibold;
+}
+
+.skill-vote {
+  @apply font-semibold;
+}
+
+.skill-description {
+  @apply text-gray-500 text-sm mt-2 prose;
+}

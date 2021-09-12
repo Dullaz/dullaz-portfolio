@@ -1,0 +1,7 @@
+.socialWrapper {
+  @apply flex space-x-3 md:space-x-4 mt-2;
+}
+
+.socialIcon {
+  @apply w-5 h-5 text-white;
+}
